@@ -1,1 +1,20 @@
 
+{
+  "news": [
+    {
+      "id": "1",
+      "title": "New Tractor Model Released!",
+      "content": "We are excited to announce the release of our new tractor model with improved performance and fuel efficiency.",
+      "imageUrl": "https://luckygamerabhi.github.io/IndianTractorSimulator24/images/new-tractor-model.png",
+      "date": "2024-08-06"
+    },
+    {
+      "id": "2",
+      "title": "Seasonal Sale Starts Now!",
+      "content": "Get up to 20% off on all tractor models during our seasonal sale.",
+      "imageUrl": "https://luckygamerabhi.github.io/IndianTractorSimulator24/images/new-tractor-model.png",
+      "date": "2024-07-15"
+    }
+  ]
+}
+
