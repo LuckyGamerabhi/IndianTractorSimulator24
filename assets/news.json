@@ -5,21 +5,24 @@
       "title": "Update Related News!",
       "content": "The update is problematic. Update fix in five days.",
       "imageUrl": "https://luckygamerabhi.github.io/IndianTractorSimulator24/assets/images/Update-07.08.24.png",
-      "date": "07-08-2042"
+      "date": "07-08-2042",
+      "author": "Abhijeet Patil"
     },
     {
       "id": "2",
       "title": "After Proper Fixing the Update!",
       "content": "New update properly published on 15-08-2024.",
       "imageUrl": "https://luckygamerabhi.github.io/IndianTractorSimulator24/assets/images/new-tractor-model.png",
-      "date": "07-08-2042"
+      "date": "15-08-2024",
+      "author": "Bharatiya(AM)Games"
     },
     {
       "id": "3",
       "title": "Our Car Game Updates",
       "content": "Major update coming soon in October 2024.",
       "imageUrl": "https://luckygamerabhi.github.io/IndianTractorSimulator24/assets/images/ICJ.png",
-      "date": "07-08-2042"
+      "date": "01-10-2024",
+      "author": "Bharatiya(AM)Games"
     }
   ]
 }
