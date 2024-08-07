@@ -2,7 +2,7 @@
 //{ "red"},{ "green"},{ "blue"},{ "yellow"},{ "black"},{ "white"},{ "orange"},{ "darkred"},{ "lightred"},{ "darkgreen"},{ "lightgreen"},{ "darkblue"},{ "lightblue"},{ "darkyellow"},{ "lightyellow"},{ "darkorange"},{ "lightorange"},
 
 {
-  "news": [
+  "BAM_news": [
     {
       "id": "1",
       "title": "Update Related News!",
