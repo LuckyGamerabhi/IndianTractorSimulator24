@@ -7,6 +7,7 @@
       "imageUrl": "https://luckygamerabhi.github.io/IndianTractorSimulator24/assets/images/Update-07.08.24.png",
       "date": "07-08-2024",
       "author": "By- Abhijeet Patil"
+      "color": "green" // Color name
     },
     {
       "id": "2",
@@ -15,6 +16,7 @@
       "imageUrl": "https://luckygamerabhi.github.io/IndianTractorSimulator24/assets/images/new-tractor-model.png",
       "date": "07-08-2024",
       "author": "By- Bharatiya(AM)Games"
+      "color": "green" // Color name
     },
     {
       "id": "4",
@@ -23,7 +25,25 @@
       "imageUrl": "https://luckygamerabhi.github.io/IndianTractorSimulator24/assets/images/ICJ.png",
       "date": "07-08-2024",
       "author": "By- Bharatiya(AM)Games"
+      "color": "green" // Color name
     }
   ]
 }
-
+example Usable colour names
+{ "red"},
+{ "green"},
+{ "blue"},
+{ "yellow"},
+{ "black"},
+{ "white"},
+{ "orange"},
+{ "darkred"},
+{ "lightred"},
+{ "darkgreen"},
+{ "lightgreen"},
+{ "darkblue"},
+{ "lightblue"},
+{ "darkyellow"},
+{ "lightyellow"},
+{ "darkorange"},
+{ "lightorange"},
