@@ -1,5 +1,5 @@
 //example Usable colour names
-//{ "red"},{ "green"},{ "blue"},{ "yellow"},{ "black"},{ "white"},{ "orange"},{ "darkred"},{ "lightred"},{ "darkgreen"},{ "lightgreen"},{ "darkblue"},{ "lightblue"},{ "darkyellow"},{ "lightyellow"},{ "darkorange"},{ "lightorange"},
+//"red","green","blue","yellow","black","white","orange","darkred","lightred","darkgreen","lightgreen","darkblue","lightblue","darkyellow","lightyellow","darkorange","lightorange",
 
 {
   "BAM_news": [
