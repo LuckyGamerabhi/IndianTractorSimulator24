@@ -2,12 +2,12 @@
   "BAM_news": [
     {
       "id": "4",
-      "title": "HEllO! New Update is Coming Soon",
+      "title": "HEllO! New Update is Coming Soon in Feb!",
       "content": "New update is coming please wait don't uninstall game.",
       "imageUrl": "https://raw.githubusercontent.com/LuckyGamerabhi/IndianTractorSimulator24/main/assets/Games/GameImagesGallery/ITS24-Photos/New_Look.png",
-      "date": "29-11-2024",
+      "date": "16-01-2025",
       "author": "Abhijeet Patil",
-      "color": "red"
+      "color": "green"
     },
     {
       "id": "2",
@@ -16,7 +16,7 @@
       "imageUrl": "https://raw.githubusercontent.com/LuckyGamerabhi/IndianTractorSimulator24/main/assets/Games/GameImagesGallery/ITS24-Photos/Ghat.png",
       "date": "01-12-2024",
       "author": "Bharatiya(AM)Games",
-      "color": "darkgreen"
+      "color": "red"
     },
     {
       "id": "3",
@@ -25,7 +25,7 @@
       "imageUrl": "https://raw.githubusercontent.com/LuckyGamerabhi/IndianTractorSimulator24/main/assets/Games/GameImagesGallery/ICS-Photos/Screenshot%20(81).png",
       "date": "06-11-2024",
       "author": "Bharatiya(AM)Games",
-      "color": "green"
+      "color": "blue"
     },
     {
       "id": "4",
