@@ -2,7 +2,7 @@
   "BAM_news": [
     {
       "id": "1",
-      "title": "Major Update – New Map Expansion & Features!",
+      "title": "Major Update – New Map & New Gameplay Features!",
       "content": "Expected: 13-09-2025 – Indian Tractor Offloading gets its biggest update yet with new towns, improved physics, and Ombrador–Velmora border crossing missions.",
       "imageUrl": "https://raw.githubusercontent.com/LuckyGamerabhi/IndianTractorSimulator24/main/assets/Games/GameImagesGallery/ITS24-Photos/new-tractor-model.png",
       "date": "15-08-2025",
@@ -11,8 +11,8 @@
     },
     {
       "id": "2",
-      "title": "AI Traffic 2.0 with Smarter Road Behavior",
-      "content": "Expected: 13-09-2025 – AI vehicles will follow realistic traffic rules, respond to roadblocks, and adapt to state-specific driving styles.",
+      "title": "Game Change into the Offloading Simulation",
+      "content": "Expected: 13-09-2025 – The game is evolving into a full offloading simulation experience, featuring realistic cargo handling, dynamic terrain challenges, and expanded tractor customization.",
       "imageUrl": "https://raw.githubusercontent.com/LuckyGamerabhi/IndianTractorSimulator24/main/assets/Games/GameImagesGallery/ITS24-Photos/new-tractor-model.png",
       "date": "15-08-2025",
       "author": "Abhijeet Patil & ADVENTUROUS MIND GAMES",
@@ -47,4 +47,3 @@
     }
   ]
 }
-
