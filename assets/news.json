@@ -1,59 +1,49 @@
 {
   "BAM_news": [
     {
-      "id": "4",
-      "title": "Hello! New Update is Coming Soon in 15 April 2025!",
-      "content": "New update is coming please wait don't uninstall game.",
+      "id": "1",
+      "title": "Major Update – New Map Expansion & Features!",
+      "content": "Expected: 13-09-2025 – Indian Tractor Offloading gets its biggest update yet with new towns, improved physics, and Ombrador–Velmora border crossing missions.",
       "imageUrl": "https://raw.githubusercontent.com/LuckyGamerabhi/IndianTractorSimulator24/main/assets/Games/GameImagesGallery/ITS24-Photos/new-tractor-model.png",
-      "date": "06-04-2025",
-      "author": "Abhijeet Patil",
+      "date": "15-08-2025",
+      "author": "Abhijeet Patil & ADVENTUROUS MIND GAMES",
       "color": "black"
     },
     {
       "id": "2",
-      "title": " New AI traffic system is coming in a new, upcoming update Coming Soon in 15 May 2025! ",
-      "content": "version 24.12.25-beta.8 Upcoming version",
+      "title": "AI Traffic 2.0 with Smarter Road Behavior",
+      "content": "Expected: 13-09-2025 – AI vehicles will follow realistic traffic rules, respond to roadblocks, and adapt to state-specific driving styles.",
       "imageUrl": "https://raw.githubusercontent.com/LuckyGamerabhi/IndianTractorSimulator24/main/assets/Games/GameImagesGallery/ITS24-Photos/Ghat.png",
-      "date": "26-03-2025",
-      "author": "Bharatiya(AM)Games",
+      "date": "15-08-2025",
+      "author": "Abhijeet Patil & ADVENTUROUS MIND GAMES",
       "color": "black"
     },
     {
       "id": "3",
-      "title": "Our IndianCarsStunt-let's Drive = Removed",
-      "content": "Our IndianCarsStunt-let's Drive Game is Removed From Play Store .",
-      "imageUrl": "https://raw.githubusercontent.com/LuckyGamerabhi/IndianTractorSimulator24/main/assets/Games/GameImagesGallery/ICS-Photos/Screenshot%20(81).png",
-      "date": "06-11-2024",
-      "author": "Bharatiya(AM)Games",
+      "title": "New Cargo Types – Heavy Machinery & Livestock",
+      "content": "Expected: 13-09-2025 – Transport heavy machinery to Los Dieselur factories and livestock to Ombrador’s rural markets.",
+      "imageUrl": "https://raw.githubusercontent.com/LuckyGamerabhi/IndianTractorSimulator24/main/assets/Games/GameImagesGallery/ITS24-Photos/cargo-update.png",
+      "date": "15-08-2025",
+      "author": "Abhijeet Patil & ADVENTUROUS MIND GAMES",
       "color": "black"
     },
     {
       "id": "4",
-      "title": "Thank You, Тимур Латыпов!",
-      "content": "Thank you, Тимур Латыпов, for sending our game review. More updates are coming soon!",
-      "imageUrl": "https://raw.githubusercontent.com/LuckyGamerabhi/IndianTractorSimulator24/main/assets/Games/GameImagesGallery/ITS24-Photos/new-tractor-model.png",
-      "date": "26-03-2025",
-      "author": "Bharatiya(AM)Games",
-      "color": "black"
-    },
-    {
-      "id": "6",
-      "title": "Soon!",
-      "content": "Soon.",
-      "imageUrl": "https://raw.githubusercontent.com/LuckyGamerabhi/IndianTractorSimulator24/main/assets/Games/GameImagesGallery/ITS24-Photos/new-tractor-model.png",
-      "date": "",
-      "author": "",
+      "title": "Map Expansion – Lak Novograd Fully Playable",
+      "content": "Expected: 13-09-2025 – Explore the hilly town of Lak Novograd with tight mountain turns and special delivery missions.",
+      "imageUrl": "https://raw.githubusercontent.com/LuckyGamerabhi/IndianTractorSimulator24/main/assets/Games/GameImagesGallery/ITS24-Photos/lak-novograd.png",
+      "date": "15-08-2025",
+      "author": "Abhijeet Patil & ADVENTUROUS MIND GAMES",
       "color": "black"
     },
     {
       "id": "5",
-      "title": "Soon!",
-      "content": "Soon.",
-      "imageUrl": "https://raw.githubusercontent.com/LuckyGamerabhi/IndianTractorSimulator24/main/assets/Games/GameImagesGallery/ITS24-Photos/new-tractor-model.png",
-      "date": "",
-      "author": "",
+      "title": "Performance Improvements & Bug Fixes",
+      "content": "Expected: 13-09-2025 – Optimized loading times, improved heavy cargo physics, and fixed community-reported issues.",
+      "imageUrl": "https://raw.githubusercontent.com/LuckyGamerabhi/IndianTractorSimulator24/main/assets/Games/GameImagesGallery/ITS24-Photos/performance-update.png",
+      "date": "15-08-2025",
+      "author": "Abhijeet Patil & ADVENTUROUS MIND GAMES",
       "color": "black"
     }
   ]
 }
-
