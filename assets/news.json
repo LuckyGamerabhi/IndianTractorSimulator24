@@ -3,48 +3,49 @@
     {
       "id": "1",
       "title": "Major Update – New Map & New Gameplay Features!",
-      "content": "Expected: 13-09-2025 – Indian Tractor Offloading gets its biggest update yet with new towns, improved physics, and Ombrador–Velmora border crossing missions.",
+      "content": "Expected: 13-10-2025 – Indian Tractor Offloading gets its biggest update yet with new towns, improved physics, and Ombrador–Velmora border crossing missions.",
       "imageUrl": "https://raw.githubusercontent.com/LuckyGamerabhi/IndianTractorSimulator24/main/assets/Games/GameImagesGallery/ITS24-Photos/new-tractor-model.png",
-      "date": "15-08-2025",
+      "date": "14-09-2025",
       "author": "ADVENTUROUS MIND GAMES",
-      "color": "black"
+      "color": "orange"
     },
     {
       "id": "2",
       "title": "Game Change into the Offloading Simulation",
-      "content": "Expected: 13-09-2025 – The game is evolving into a full offloading simulation experience, featuring realistic cargo handling, dynamic terrain challenges, and expanded tractor customization.",
+      "content": "Expected: 13-10-2025 – The game is evolving into a full offloading simulation experience, featuring realistic cargo handling, dynamic terrain challenges, and expanded tractor customization.",
       "imageUrl": "https://raw.githubusercontent.com/LuckyGamerabhi/IndianTractorSimulator24/main/assets/Games/GameImagesGallery/ITS24-Photos/new-tractor-model.png",
-      "date": "15-08-2025",
+      "date": "14-09-2025",
       "author": "Abhijeet Patil & ADVENTUROUS MIND GAMES",
-      "color": "black"
+      "color": "blue"
     },
     {
       "id": "3",
       "title": "New Cargo Types – Heavy Machinery & Livestock",
-      "content": "Expected: 13-09-2025 – Transport heavy machinery to Los Dieselur factories and livestock to Ombrador’s rural markets.",
+      "content": "Expected: 13-10-2025 – Transport heavy machinery to Los Dieselur factories and livestock to Ombrador’s rural markets.",
       "imageUrl": "https://raw.githubusercontent.com/LuckyGamerabhi/IndianTractorSimulator24/main/assets/Games/GameImagesGallery/ITS24-Photos/new-tractor-model.png",
-      "date": "15-08-2025",
+      "date": "14-09-2025",
       "author": "Abhijeet Patil & ADVENTUROUS MIND GAMES",
-      "color": "black"
+      "color": "lightblue"
     },
     {
       "id": "4",
       "title": "Map Expansion – Lak Novograd Fully Playable",
-      "content": "Expected: 13-09-2025 – Explore the hilly town of Lak Novograd with tight mountain turns and special delivery missions.",
+      "content": "Expected: 13-10-2025 – Explore the hilly town of Lak Novograd with tight mountain turns and special delivery missions.",
       "imageUrl": "https://raw.githubusercontent.com/LuckyGamerabhi/IndianTractorSimulator24/main/assets/Games/GameImagesGallery/ITS24-Photos/new-tractor-model.png",
-      "date": "15-08-2025",
+      "date": "13-09-2025",
       "author": "Abhijeet Patil & ADVENTUROUS MIND GAMES",
       "color": "black"
     },
     {
       "id": "5",
       "title": "Performance Improvements & Bug Fixes",
-      "content": "Expected: 13-09-2025 – Optimized loading times, improved heavy cargo physics, and fixed community-reported issues.",
+      "content": "Expected: 13-10-2025 – Optimized loading times, improved heavy cargo physics, and fixed community-reported issues.",
       "imageUrl": "https://raw.githubusercontent.com/LuckyGamerabhi/IndianTractorSimulator24/main/assets/Games/GameImagesGallery/ITS24-Photos/new-tractor-model.png",
-      "date": "15-08-2025",
+      "date": "14-09-2025",
       "author": "Mahendra_B",
-      "color": "black"
+      "color": "green"
     }
   ]
 }
+
 
