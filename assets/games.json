@@ -1,0 +1,28 @@
+{
+  "BAM_games": [
+    {
+      "id": "1",
+      "name": "Indian Tractor Offloading",
+      "description": "Experience realistic tractor offloading with new towns, physics improvements, and border crossing missions.",
+      "imageUrl": "https://raw.githubusercontent.com/LuckyGamerabhi/IndianTractorSimulator24/main/assets/Games/GameImagesGallery/ITS24-Photos/jasra%20cirty.png",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.adventurousmindgames.tractor",
+      "studio": "ADVENTUROUS MIND GAMES"
+    },
+    {
+      "id": "2",
+      "name": "Forest Rescue Simulator",
+      "description": "Control rescue vehicles and save wildlife in a fully dynamic forest environment.",
+      "imageUrl": "https://raw.githubusercontent.com/LuckyGamerabhi/IndianTractorSimulator24/main/assets/Games/GameImagesGallery/ITS24-Photos/village-1.png",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.nightscream.forestrescue",
+      "studio": "Night Scream Studios"
+    },
+    {
+      "id": "3",
+      "name": "Mountain Cargo Delivery",
+      "description": "Navigate challenging mountain roads and deliver cargo safely under time pressure.",
+      "imageUrl": "https://raw.githubusercontent.com/LuckyGamerabhi/IndianTractorSimulator24/main/assets/Games/GameImagesGallery/ITS24-Photos/village-2.png",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.adventurousmindgames.mountaincargo",
+      "studio": "ADVENTUROUS MIND GAMES"
+    }
+  ]
+}
